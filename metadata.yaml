@@ -1,5 +1,5 @@
 _repo: The-Steel-Flea_61172
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Levsha. English
 contributor:
   translator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '33608'
     url: http://www.gutenberg.org/2009/agents/33608
     wikipedia: http://en.wikipedia.org/wiki/Isabel_Florence_Hapgood
+covers:
+- cover_type: archival
+  image_path: 61172-h/images/cover.jpg
 creator:
   author:
     agent_name: Leskov, N. S. (Nikolai Semenovich)
@@ -29,6 +32,8 @@ creator:
     - https://de.wikipedia.org/wiki/Nikolai_Semjonowitsch_Leskow
     - https://en.wikipedia.org/wiki/Nikolai_Leskov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61172#The-Steel-Flea
 gutenberg_issued: '2020-01-14'
 gutenberg_type: Text
 identifiers:
