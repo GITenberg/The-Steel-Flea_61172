@@ -1,0 +1,46 @@
+_repo: The-Steel-Flea_61172
+_version: 0.0.1
+alternative_title: Levsha. English
+contributor:
+  translator:
+    agent_name: Hapgood, Isabel Florence
+    alias: Hapgood, Isabel F.
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '33608'
+    url: http://www.gutenberg.org/2009/agents/33608
+    wikipedia: http://en.wikipedia.org/wiki/Isabel_Florence_Hapgood
+creator:
+  author:
+    agent_name: Leskov, N. S. (Nikolai Semenovich)
+    aliases:
+    - Leskov, Nikolaj
+    - Leskow, Nikolai
+    - Лесков, Н. С. (Николай Семенович)
+    - Stebnitskii, M.
+    - Lyeskoff, Nikolai Semyonovitch
+    - Stebnitsky, M.
+    - Leskow, Nikolaus
+    birthdate: 1831
+    deathdate: 1895
+    gutenberg_agent_id: '45172'
+    url: http://www.gutenberg.org/2009/agents/45172
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Nikolai_Semjonowitsch_Leskow
+    - https://en.wikipedia.org/wiki/Nikolai_Leskov
+description: ''
+gutenberg_issued: '2020-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russia -- Fiction'
+- !lcsh 'Fleas -- Fiction'
+- GITenberg
+title: The Steel Flea
+url: http://www.gutenberg.org/ebooks/61172
